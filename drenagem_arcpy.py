@@ -2,7 +2,7 @@
 """
 Script: drenagem_arcpy.py
 Descrição: Gera rede de drenagem a partir de um DEM usando ArcPy.
-Autor: Adaptado a partir de benchmark interno (2025)
+Autor: Bruna Candeia
 Como usar:
 1. Ajuste o caminho da variável `wksp` para a pasta de trabalho.
 2. Garanta que o Spatial Analyst esteja habilitado na licença.
